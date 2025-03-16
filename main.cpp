@@ -1,18 +1,3 @@
-                                       /*
-     ----------------------------------------------------------------------------
-               Project title   : Hudson(personal assistant)
-               Made By         : Mehzabin Rahman, Mosammat Zannatul Ferduss
-               Written in      : C++
-               Started project : 27 February, 2024
-               Platform        : Windows
-               IDE used        : Codeblocks
-               Last Modified   : 3 March , 2024
-               Total Code      : 370+ Lines
-    ----------------------------------------------------------------------------
-                                        */
-
-
-
 #include<bits/stdc++.h>
 #include<windows.h>
 #include<shellapi.h>
